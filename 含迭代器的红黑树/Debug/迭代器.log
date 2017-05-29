@@ -1,0 +1,13 @@
+﻿生成启动时间为 2017/5/28 星期日 下午 7:23:10。
+     1>项目“G:\vs2013\红黑树\迭代器\迭代器.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "迭代.cpp"
+         迭代.cpp
+       Link:
+         G:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\vs2013\红黑树\Debug\迭代器.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\vs2013\红黑树\Debug\迭代器.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\vs2013\红黑树\Debug\迭代器.lib" /MACHINE:X86 "Debug\迭代.obj"
+         迭代器.vcxproj -> G:\vs2013\红黑树\Debug\迭代器.exe
+     1>已完成生成项目“G:\vs2013\红黑树\迭代器\迭代器.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.79
